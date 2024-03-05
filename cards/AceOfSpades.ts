@@ -9,4 +9,5 @@ class AceOfSpades implements AbilityCard {
   img: "static/ace_of_spades.png";
 
   PrimaryAbility(): void {}
+  SecondaryAbility(): void {}
 }
