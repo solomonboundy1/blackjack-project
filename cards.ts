@@ -9,7 +9,6 @@ interface Card {
 
 const deck = {
   clubs: [
-    {
       twoOfClubs: {
         name: "Two of Clubs",
         suit: "clubs",
@@ -105,16 +104,8 @@ const deck = {
         value: "K",
         deckNumber: 12,
         img: "static/king_of_clubs.png",
-      },
-      aceOfClubs: {
-        name: "Ace of Clubs",
-        suit: "clubs",
-        color: "black",
-        value: "A",
-        deckNumber: 13,
-        img: "static/ace_of_clubs.png",
-      },
-    },
+      }
+
   ],
   diamonds: [
     {
