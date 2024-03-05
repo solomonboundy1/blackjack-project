@@ -6,7 +6,7 @@ const deck = {
         suit: "clubs",
         color: "black",
         value: "2",
-        deckNumber: "1",
+        deckNumber: 1,
         img: "static/2_of_clubs.png",
       },
       threeOfClubs: {
@@ -14,7 +14,7 @@ const deck = {
         suit: "clubs",
         color: "black",
         value: "3",
-        deckNumber: "2",
+        deckNumber: 2,
         img: "static/3_of_clubs.png",
       },
       fourofClubs: {
@@ -22,7 +22,7 @@ const deck = {
         suit: "clubs",
         color: "black",
         value: "4",
-        deckNumber: "3",
+        deckNumber: 3,
         img: "static/4_of_clubs.png",
       },
       fiveOfClubs: {
@@ -30,7 +30,7 @@ const deck = {
         suit: "clubs",
         color: "black",
         value: "5",
-        deckNumber: "4",
+        deckNumber: 4,
         img: "static/5_of_clubs.png",
       },
       sixOfClubs: {
@@ -38,7 +38,7 @@ const deck = {
         suit: "clubs",
         color: "black",
         value: "6",
-        deckNumber: "5",
+        deckNumber: 5,
         img: "static/6_of_clubs.png",
       },
       sevenOfClubs: {
@@ -46,7 +46,7 @@ const deck = {
         suit: "clubs",
         color: "black",
         value: "7",
-        deckNumber: "6",
+        deckNumber: 6,
         img: "static/7_of_clubs.png",
       },
       eightOfClubs: {
@@ -54,7 +54,7 @@ const deck = {
         suit: "clubs",
         color: "black",
         value: "8",
-        deckNumber: "7",
+        deckNumber: 7,
         img: "static/8_of_clubs.png",
       },
       nineOfClubs: {
@@ -62,7 +62,7 @@ const deck = {
         suit: "clubs",
         color: "black",
         value: "9",
-        deckNumber: "6",
+        deckNumber: 6,
         img: "static/9_of_clubs.png",
       },
       tenOfClubs: {
@@ -70,7 +70,7 @@ const deck = {
         suit: "clubs",
         color: "black",
         value: "10",
-        deckNumber: "9",
+        deckNumber: 9,
         img: "static/10_of_clubs.png",
       },
       jackOfClubs: {
@@ -78,7 +78,7 @@ const deck = {
         suit: "clubs",
         color: "black",
         value: "J",
-        deckNumber: "10",
+        deckNumber: 10,
         img: "static/jack_of_clubs.png",
       },
       queenOfClubs: {
@@ -86,7 +86,7 @@ const deck = {
         suit: "clubs",
         color: "black",
         value: "Q",
-        deckNumber: "11",
+        deckNumber: 11,
         img: "static/queen_of_clubs.png",
       },
       kingOfClubs: {
@@ -94,7 +94,7 @@ const deck = {
         suit: "clubs",
         color: "black",
         value: "K",
-        deckNumber: "12",
+        deckNumber: 12,
         img: "static/king_of_clubs.png",
       },
       aceOfClubs: {
@@ -102,7 +102,7 @@ const deck = {
         suit: "clubs",
         color: "black",
         value: "A",
-        deckNumber: "13",
+        deckNumber: 13,
         img: "static/ace_of_clubs.png",
       },
     },
@@ -114,7 +114,7 @@ const deck = {
         suit: "diamonds",
         color: "red",
         value: "2",
-        deckNumber: "14",
+        deckNumber: 14,
         img: "static/2_of_diamonds.png",
       },
       threeOfDiamonds: {
@@ -122,7 +122,7 @@ const deck = {
         suit: "diamonds",
         color: "red",
         value: "3",
-        deckNumber: "15",
+        deckNumber: 15,
         img: "static/3_of_diamonds.png",
       },
       fourOfDiamonds: {
@@ -130,7 +130,7 @@ const deck = {
         suit: "diamonds",
         color: "red",
         value: "4",
-        deckNumber: "16",
+        deckNumber: 16,
         img: "static/4_of_diamonds.png",
       },
       fiveOfDiamonds: {
@@ -138,7 +138,7 @@ const deck = {
         suit: "diamonds",
         color: "red",
         value: "5",
-        deckNumber: "17",
+        deckNumber: 17,
         img: "static/5_of_diamonds.png",
       },
       sixOfDiamonds: {
@@ -146,7 +146,7 @@ const deck = {
         suit: "diamonds",
         color: "red",
         value: "6",
-        deckNumber: "18",
+        deckNumber: 18,
         img: "static/6_of_diamonds.png",
       },
       sevenOfDiamonds: {
@@ -154,7 +154,7 @@ const deck = {
         suit: "diamonds",
         color: "red",
         value: "7",
-        deckNumber: "19",
+        deckNumber: 19,
         img: "static/7_of_diamonds.png",
       },
       eightOfDiamonds: {
@@ -162,7 +162,7 @@ const deck = {
         suit: "diamonds",
         color: "red",
         value: "8",
-        deckNumber: "20",
+        deckNumber: 20,
         img: "static/8_of_diamonds.png",
       },
       nineOfDiamonds: {
@@ -170,7 +170,7 @@ const deck = {
         suit: "diamonds",
         color: "red",
         value: "9",
-        deckNumber: "21",
+        deckNumber: 21,
         img: "static/9_of_diamonds.png",
       },
       tenOfDiamonds: {
@@ -178,7 +178,7 @@ const deck = {
         suit: "diamonds",
         color: "red",
         value: "10",
-        deckNumber: "22",
+        deckNumber: 22,
         img: "static/10_of_diamonds.png",
       },
       jackOfDiamonds: {
@@ -186,7 +186,7 @@ const deck = {
         suit: "diamonds",
         color: "red",
         value: "J",
-        deckNumber: "23",
+        deckNumber: 23,
         img: "static/jack_of_diamonds.png",
       },
       queenOfDiamonds: {
@@ -194,7 +194,7 @@ const deck = {
         suit: "diamonds",
         color: "red",
         value: "Q",
-        deckNumber: "24",
+        deckNumber: 24,
         img: "static/queen_of_diamonds.png",
       },
       kingOfDiamonds: {
@@ -202,7 +202,7 @@ const deck = {
         suit: "diamonds",
         color: "red",
         value: "K",
-        deckNumber: "25",
+        deckNumber: 25,
         img: "static/king_of_diamonds.png",
       },
       aceOfDiamonds: {
@@ -210,7 +210,7 @@ const deck = {
         suit: "diamonds",
         color: "red",
         value: "A",
-        deckNumber: "26",
+        deckNumber: 26,
         img: "static/ace_of_diamonds.png",
       },
     },
@@ -222,7 +222,7 @@ const deck = {
         suit: "hearts",
         color: "red",
         value: "2",
-        deckNumber: "27",
+        deckNumber: 27,
         img: "static/2_of_hearts.png",
       },
       threeOfHearts: {
@@ -230,7 +230,7 @@ const deck = {
         suit: "hearts",
         color: "red",
         value: "3",
-        deckNumber: "28",
+        deckNumber: 28,
         img: "static/3_of_hearts.png",
       },
       fourOfHearts: {
@@ -238,7 +238,7 @@ const deck = {
         suit: "hearts",
         color: "red",
         value: "4",
-        deckNumber: "29",
+        deckNumber: 29,
         img: "static/4_of_hearts.png",
       },
       fiveOfHearts: {
@@ -246,7 +246,7 @@ const deck = {
         suit: "hearts",
         color: "red",
         value: "5",
-        deckNumber: "30",
+        deckNumber: 30,
         img: "static/5_of_hearts.png",
       },
       sixOfHearts: {
@@ -254,7 +254,7 @@ const deck = {
         suit: "hearts",
         color: "red",
         value: "6",
-        deckNumber: "31",
+        deckNumber: 31,
         img: "static/6_of_hearts.png",
       },
       sevenOfHearts: {
@@ -262,7 +262,7 @@ const deck = {
         suit: "hearts",
         color: "red",
         value: "7",
-        deckNumber: "32",
+        deckNumber: 32,
         img: "static/7_of_hearts.png",
       },
       eightOfHearts: {
@@ -270,7 +270,7 @@ const deck = {
         suit: "hearts",
         color: "red",
         value: "8",
-        deckNumber: "33",
+        deckNumber: 33,
         img: "static/8_of_hearts.png",
       },
       nineOfHearts: {
@@ -278,7 +278,7 @@ const deck = {
         suit: "hearts",
         color: "red",
         value: "9",
-        deckNumber: "34",
+        deckNumber: 34,
         img: "static/9_of_hearts.png",
       },
       tenOfHearts: {
@@ -286,7 +286,7 @@ const deck = {
         suit: "hearts",
         color: "red",
         value: "10",
-        deckNumber: "35",
+        deckNumber: 35,
         img: "static/10_of_hearts.png",
       },
       jackOfHearts: {
@@ -294,7 +294,7 @@ const deck = {
         suit: "hearts",
         color: "red",
         value: "J",
-        deckNumber: "36",
+        deckNumber: 36,
         img: "static/jack_of_hearts.png",
       },
       queenOfHearts: {
@@ -302,7 +302,7 @@ const deck = {
         suit: "hearts",
         color: "red",
         value: "Q",
-        deckNumber: "37",
+        deckNumber: 37,
         img: "static/queen_of_hearts.png",
       },
       kingOfHearts: {
@@ -310,7 +310,7 @@ const deck = {
         suit: "hearts",
         color: "red",
         value: "K",
-        deckNumber: "38",
+        deckNumber: 38,
         img: "static/king_of_hearts.png",
       },
       aceOfHearts: {
@@ -318,7 +318,7 @@ const deck = {
         suit: "hearts",
         color: "red",
         value: "A",
-        deckNumber: "39",
+        deckNumber: 39,
         img: "static/ace_of_hearts.png",
       },
     },
@@ -330,7 +330,7 @@ const deck = {
         suit: "spades",
         color: "black",
         value: "2",
-        deckNumber: "40",
+        deckNumber: 40,
         img: "static/2_of_spades.png",
       },
       threeOfSpades: {
@@ -338,7 +338,7 @@ const deck = {
         suit: "spades",
         color: "black",
         value: "3",
-        deckNumber: "41",
+        deckNumber: 41,
         img: "static/3_of_spades.png",
       },
       fourOfSpades: {
@@ -346,7 +346,7 @@ const deck = {
         suit: "spades",
         color: "black",
         value: "4",
-        deckNumber: "42",
+        deckNumber: 42,
         img: "static/4_of_spades.png",
       },
       fiveOfSpades: {
@@ -354,7 +354,7 @@ const deck = {
         suit: "spades",
         color: "black",
         value: "5",
-        deckNumber: "43",
+        deckNumber: 43,
         img: "static/5_of_spades.png",
       },
       sixOfSpades: {
@@ -362,7 +362,7 @@ const deck = {
         suit: "spades",
         color: "black",
         value: "6",
-        deckNumber: "44",
+        deckNumber: 44,
         img: "static/6_of_spades.png",
       },
       sevenOfSpades: {
@@ -370,7 +370,7 @@ const deck = {
         suit: "spades",
         color: "black",
         value: "7",
-        deckNumber: "45",
+        deckNumber: 45,
         img: "static/7_of_spades.png",
       },
       eightOfSpades: {
@@ -378,7 +378,7 @@ const deck = {
         suit: "spades",
         color: "black",
         value: "8",
-        deckNumber: "46",
+        deckNumber: 46,
         img: "static/8_of_spades.png",
       },
       nineOfSpades: {
@@ -386,7 +386,7 @@ const deck = {
         suit: "spades",
         color: "black",
         value: "9",
-        deckNumber: "47",
+        deckNumber: 47,
         img: "static/9_of_spades.png",
       },
       tenOfSpades: {
@@ -394,7 +394,7 @@ const deck = {
         suit: "spades",
         color: "black",
         value: "10",
-        deckNumber: "48",
+        deckNumber: 48,
         img: "static/10_of_spades.png",
       },
       jackOfSpades: {
@@ -402,7 +402,7 @@ const deck = {
         suit: "spades",
         color: "black",
         value: "J",
-        deckNumber: "49",
+        deckNumber: 49,
         img: "static/jack_of_spades.png",
       },
       queenOfSpades: {
@@ -410,7 +410,7 @@ const deck = {
         suit: "spades",
         color: "black",
         value: "Q",
-        deckNumber: "50",
+        deckNumber: 50,
         img: "static/queen_of_spades.png",
       },
       kingOfSpades: {
@@ -418,7 +418,7 @@ const deck = {
         suit: "spades",
         color: "black",
         value: "K",
-        deckNumber: "51",
+        deckNumber: 51,
         img: "static/king_of_spades.png",
       },
       aceOfSpades: {
@@ -426,7 +426,7 @@ const deck = {
         suit: "spades",
         color: "black",
         value: "A",
-        deckNumber: "52",
+        deckNumber: 52,
         img: "static/ace_of_spades.png",
       },
     },
