@@ -9,4 +9,5 @@ class JackOfClubs implements AbilityCard {
   img: "static/jack_of_clubs.png";
 
   PrimaryAbility(): void {}
+  SecondaryAbility(): void {}
 }
